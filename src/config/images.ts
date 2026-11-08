@@ -31,12 +31,12 @@ export interface ImageConfig {
 
 export const IMAGES: ImageConfig = {
   brand: {
-    logoPrimary: "/images/brand/logo-primary.png",
-    logoIcon: "/images/brand/logo-icon.png",
-    logoTransparent: "/images/brand/logo-transparent.png",
+    logoPrimary: "/images/brand/logo.png",
+    logoIcon: "/images/brand/logo.png",
+    logoTransparent: "/images/brand/logo.png",
     logoLight: "/images/brand/logo-light.png",
     logoEmblem: "/images/brand/logo-emblem.png",
-    favicon: "/images/brand/favicon.png",
+    favicon: "/images/brand/logo.png",
   },
   hero: {
     heroBaraat: "/images/hero/hero-baraat.jpg",
