@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SHREE BALDEV MUSICAL — OFFICIAL BRAND WEBSITE
 
 A complete, premium, production-ready advertising website and brand identity system for **SHREE BALDEV MUSICAL**, Kendrapara, Odisha.
@@ -113,3 +114,6 @@ pnpm start
 - **Interactive Lightbox Gallery**: Category filtering (Band Baja, Box Music, Baraat, Celebrations, Sound Gear), full-screen modal zoom, arrow navigation, and keyboard controls (ESC, Arrow keys).
 - **SEO & Structured Data**: Built-in JSON-LD `EntertainmentBusiness` schema with verified location details, `sitemap.xml`, and `robots.txt`.
 - **Zero Hallucination Guarantee**: Strict compliance with verified facts only (20-member team, Naraanpur Kendrapara address, phone 9337177106).
+=======
+# shreebaladevmusic
+>>>>>>> 70b39c4024a1905ec9fbc51ede33d558c63d03f9
